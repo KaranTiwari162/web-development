@@ -7,6 +7,6 @@ export const e = 5;//named export
 
 const obj ={
     x:5,
-    y:7
+    y:8
 }
 export default obj; 
